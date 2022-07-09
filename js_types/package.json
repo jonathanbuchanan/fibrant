@@ -1,0 +1,16 @@
+{
+  "name": "js_types",
+  "version": "1.0.0",
+  "description": "A type checker written in JavaScript. Not fast or optimized, but intended for easy experimentation.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "start": "node dist/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
