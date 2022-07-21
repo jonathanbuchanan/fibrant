@@ -1,0 +1,4 @@
+(executable
+ (public_name fibrant)
+ (name main)
+ (libraries fibrant))
