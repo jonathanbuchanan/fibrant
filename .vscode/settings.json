@@ -1,0 +1,11 @@
+{
+  "files.exclude": {
+    "**/build": true,
+    "**/CMakeFiles": true,
+    "**/cmake_install.cmake": true,
+    "**/CMakeCache.txt": true,
+    "**/Makefile": true,
+    "**/fiber/fiber": true,
+    "**/*.a": true
+  }
+}
