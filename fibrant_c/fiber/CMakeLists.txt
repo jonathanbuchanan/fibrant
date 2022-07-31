@@ -4,6 +4,5 @@ add_executable(fiber
 
 target_link_libraries(fiber fibrant util)
 target_include_directories(fiber
-  PUBLIC ../fibrant
-  PUBLIC ../util
+  PUBLIC ../
 )

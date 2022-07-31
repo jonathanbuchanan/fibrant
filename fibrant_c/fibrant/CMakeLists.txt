@@ -4,5 +4,5 @@ add_library(fibrant
 
 target_link_libraries(fibrant util)
 target_include_directories(fibrant
-  PUBLIC ../util
+  PUBLIC ../
 )
